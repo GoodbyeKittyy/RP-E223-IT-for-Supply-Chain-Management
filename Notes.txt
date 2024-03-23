@@ -1,0 +1,11 @@
+By definition, free float (or slack) is the amount of time an activity 
+can be delayed  without impacting the early start of its successor.
+
+The critical path is the longest sequence of activities in a project plan 
+which must be completed on time for the project to complete on due date.
+
+A view can be defined as a virtual table or a stored query 
+and the data accessible through a view is not stored in the database 
+as a distinct object. Only the select statement is stored on the database instead. However, views can be used and perform DML operations ( Insert , Update & Delete ) also.
+
+
